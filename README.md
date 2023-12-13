@@ -1,7 +1,9 @@
 
 <h2>About the project</h2>
 
-👉 Live Demo: <a href='https://blackaco.netlify.app/' target='_blank'>Live Demo</a>
+<h3>A modern Landing Page created with HTML + SASS for a custom furniture store.</h3>
+
+👉 Live Demo: <a href='https://blackaco.netlify.app/' target='_blank'>Black aço</a>
 
 <h3>Build with:</h3>
 
