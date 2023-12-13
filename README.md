@@ -13,6 +13,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-  <img src='https://github.com/Cleverton-Rocha/black-aco-landing-page/assets/141706599/d8822ac5-1bc1-46dd-8796-903574b0885c'/>
+  <img src='https://github.com/Cleverton-Rocha/black-aco-landing-page/assets/141706599/56c72d62-a85f-4f31-8b3b-f90b81122820'/>
 </div>
 
