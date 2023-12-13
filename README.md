@@ -1,7 +1,7 @@
 
 <h2>About the project</h2>
 
-👉 Live Demo: <a href='https://blackaco.netlify.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://blackaco.netlify.app/' target='_blank'>Live Demo</a>
 
 <h3>Build with:</h3>
 
