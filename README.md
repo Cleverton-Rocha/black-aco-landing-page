@@ -6,6 +6,7 @@
 <h3>Build with:</h3>
 
 » HTML5
+<br>
 » Sass / Scss <br>
 
 <h2>Screenshots of the Project 📸</h2>
