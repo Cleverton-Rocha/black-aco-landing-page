@@ -1,4 +1,5 @@
 
+
 <h2>About the project</h2>
 
 <h3>A modern Landing Page created with HTML + SASS for a custom furniture store.</h3>
